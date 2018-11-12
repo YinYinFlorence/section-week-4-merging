@@ -4,6 +4,7 @@ import helper_functions
 ++++++
 LLLLL
 ====
+__build_class__
 # SI 507 Fall 2017
 # Project 1 - Structure & Testing
 # Provided cards code
